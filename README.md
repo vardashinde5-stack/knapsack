@@ -2,7 +2,9 @@
 
 ## Title
 
-**Fractional Knapsack Problem Using Greedy Method**
+GREEDY METHOD 
+1. fractional knapsack problem 
+2. find optimal merge pattern 
 
 ## Aim
 
